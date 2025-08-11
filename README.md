@@ -21,22 +21,7 @@ This project is a **Streamlit-based web application** for predicting credit risk
 ├── requirements.txt          # Python dependencies
 ```
 
-## Try it Yourself
 
-You can deploy and run the app live on **Streamlit Cloud** or locally:
-
-### Option 1: Deploy on Streamlit Cloud
-1. Push all files to a GitHub repo
-2. Go to https://streamlit.io/cloud
-3. Click “New App” and connect your GitHub repo
-4. Set `app.py` as the main file and deploy
-
-### Option 2: Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Model
 
@@ -47,6 +32,6 @@ streamlit run app.py
 ## 📫 Contact
 
 For questions or collaboration, feel free to connect!
-
+www.linkedin.com/in/lelgobenson
 ---
 © 2025 Benson Lelgo
